@@ -1,4 +1,4 @@
-module github.com/panjf2000/ants/v2
+module github.com/telnet2/ants/v2
 
 go 1.18
 
