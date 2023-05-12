@@ -28,7 +28,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	syncx "github.com/panjf2000/ants/v2/internal/sync"
+	syncx "github.com/telnet2/ants/v2/internal/sync"
 )
 
 // Pool accepts the tasks from client, it limits the total of goroutines to a given number by recycling goroutines.
